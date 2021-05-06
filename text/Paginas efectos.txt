@@ -1,0 +1,6 @@
+https://www.enriquejros.com/efectos-imagenes-css/
+https://blog.interactius.com/12-efectos-css-en-una-imagen-con-el-evento-hover-5026b5cf1983
+https://gudh.github.io/ihover/dist/
+http://imagehover.io/
+https://tympanus.net/Development/HoverEffectIdeas/index2.html
+https://ianlunn.github.io/Hover/
